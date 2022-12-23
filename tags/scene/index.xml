@@ -1,29 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scene on Ananke</title>
+    <title>scene on my blog</title>
     <link>https://gohugo-theme-ananke.pages.dev/tags/scene/</link>
-    <description>Recent content in scene on Ananke</description>
+    <description>Recent content in scene on my blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
+      <title>《三体》</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <description>作为一个技术狂的刘慈欣，在小说中将他笔下的星球一遍遍地摧毁，又一遍遍重塑。人类挣扎在他的目光下，试图在他冷酷的理性思维中寻找最后一丝丝希望。刘慈欣在《三体》中显然戳破了某些人们习以为常的温馨梦幻。常识和逻辑在刘慈欣的小说里不是失效就是扭曲了。然而不得不承认，他这种技术狂特有的冷酷具有非凡的吸引力。更关键的是，他天马行空的想象，可能误打误撞地触及人类最核心的秘密。刘慈欣在《三体》中似乎是第一次如此尽情地描绘人类终结之时的场景。这一次他彻底沉入到末日景象之中，并从中找到了力与美，体悟到人类悲剧的深刻性</description>
     </item>
     
   </channel>

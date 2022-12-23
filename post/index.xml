@@ -1,66 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Ananke</title>
+    <title>书籍介绍 on my blog</title>
     <link>https://gohugo-theme-ananke.pages.dev/post/</link>
-    <description>Recent content in Articles on Ananke</description>
+    <description>Recent content in 书籍介绍 on my blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
-    </item>
-    
-    <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
+      <title>《三体》</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <description>作为一个技术狂的刘慈欣，在小说中将他笔下的星球一遍遍地摧毁，又一遍遍重塑。人类挣扎在他的目光下，试图在他冷酷的理性思维中寻找最后一丝丝希望。刘慈欣在《三体》中显然戳破了某些人们习以为常的温馨梦幻。常识和逻辑在刘慈欣的小说里不是失效就是扭曲了。然而不得不承认，他这种技术狂特有的冷酷具有非凡的吸引力。更关键的是，他天马行空的想象，可能误打误撞地触及人类最核心的秘密。刘慈欣在《三体》中似乎是第一次如此尽情地描绘人类终结之时的场景。这一次他彻底沉入到末日景象之中，并从中找到了力与美，体悟到人类悲剧的深刻性</description>
+    </item>
+    
+    <item>
+      <title>《我与地坛》</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</guid>
+      <description>《我与地坛》集中思考和表达了“生命”的困难与意义，这是史铁生在漫长的艰难岁月里对生命再三再四循环反复的思考咀嚼和叩问所得。这样的主题致思方向，对于当代散文来说，或许并不是重大的创举，此前的散文写作，一般也都会触及到这类主题。但是能够以一种平实、冷静、温情而透彻的态度娓娓道来，升天入地，丝丝入扣、体贴入微，毫不勉强造作，并抵达一种能为平常人所理解又难以企及的境界，却只有史铁生做到了。这篇长达万言的作品，无论是在表达主旨上，还是在写法、语言各个方面，都堪称是史铁生对中国当代文学独一无二的贡献，就这个意义而言，《我与地坛》的影响远远超越于文体范围。</description>
+    </item>
+    
+    <item>
+      <title>羊道三部曲：《春牧场》《前山夏牧场》《深山夏牧场》</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</guid>
+      <description>羊群在一整面山坡上弥漫开来，沿着平行着布满坡体的上百条弧线（那就是羊道）有序前行，丝丝入扣。新疆北部游牧地区的哈萨克牧民大约是这个世界上最后一支纯正的游牧民族了。“羊道”三部曲记录了李娟跟随哈萨克族的扎克拜妈妈一家，历经寒暑，在粗犷苍茫的新疆阿勒泰山区游牧生活的日子。哈萨克族逐水草而居的草原生活在此得以呈现，在自然的静穆与残酷面前，这个游牧民族所展现出的淡然、坚韧与智慧，让宇宙里每一个渺小的生命都显得如此独特。</description>
     </item>
     
   </channel>
